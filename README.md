@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @devynfarr
 - 👀 I’m interested in building sustainable things.  Things that last, and adapt and can be reused in unexpected ways.
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning C++, bash, homeassistant, linux, openscad
 - 💞️ I’m looking to collaborate open source software projects that foster science and advancement and freedom of knowledge.  Contributing to KiCAD is my short term goal.
 - 📫 How to reach me ...
 
